@@ -13,6 +13,7 @@
 		9B8DB16D230A124800DF7738 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B8DB16B230A124800DF7738 /* Main.storyboard */; };
 		9B8DB16F230A124900DF7738 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B8DB16E230A124900DF7738 /* Assets.xcassets */; };
 		9B8DB172230A124900DF7738 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B8DB170230A124900DF7738 /* LaunchScreen.storyboard */; };
+		9B8DB17A230A125E00DF7738 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8DB179230A125E00DF7738 /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9B8DB16E230A124900DF7738 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B8DB171230A124900DF7738 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B8DB173230A124900DF7738 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B8DB179230A125E00DF7738 /* Datos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9B8DB167230A124800DF7738 /* SceneDelegate.swift */,
 				9B8DB169230A124800DF7738 /* ViewController.swift */,
 				9B8DB16B230A124800DF7738 /* Main.storyboard */,
+				9B8DB179230A125E00DF7738 /* Datos.swift */,
 				9B8DB16E230A124900DF7738 /* Assets.xcassets */,
 				9B8DB170230A124900DF7738 /* LaunchScreen.storyboard */,
 				9B8DB173230A124900DF7738 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B8DB16A230A124800DF7738 /* ViewController.swift in Sources */,
+				9B8DB17A230A125E00DF7738 /* Datos.swift in Sources */,
 				9B8DB166230A124800DF7738 /* AppDelegate.swift in Sources */,
 				9B8DB168230A124800DF7738 /* SceneDelegate.swift in Sources */,
 			);
